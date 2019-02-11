@@ -68,8 +68,8 @@ table{
 }
 
 p{
-	width:auto;
+	width:300px;
 	padding: 10px;
 	margin: 10px;
-	
+	font-family:impact;
 }
