@@ -4,7 +4,7 @@
 
 ul.menu{
 	
-	font-family:impact;
+	font-family:monospace;
 	width:100%;
 	padding:.2esm;
 	margin:0;
@@ -46,7 +46,7 @@ h1{
     position: absolute;
     top: 50%;
     width: 100%;
-    font-family: serif;
+    font-family: monospace;
     font-size: 50px:
 }
 
@@ -60,7 +60,7 @@ table.menu{
 	padding: 10px;
 	margin-top: 50px;
 	
-	font-family:serif;
+	font-family:monospace;
 	text-align: center;
 }
 
@@ -73,7 +73,7 @@ p{
 	width:auto;
 	padding: 10px;
 	margin: 10px;
-	font-family:impact;
+	font-family:monospace;
 }
 
 .info{
