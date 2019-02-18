@@ -10,9 +10,9 @@ ul.menu{
 }
 
 a{
-	float:left;
+	float:center;
 	width:auto;
-	
+	padding:0.3em 0.7em;
 	text-align:center;
 	text-decoration: none;
 	text-transform: uppercase;
