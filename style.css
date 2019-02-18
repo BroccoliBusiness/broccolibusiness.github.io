@@ -1,6 +1,6 @@
 @charset "ISO-8859-1";
 
-ul{
+ul.menu{
 	
 	font-family:impact;
 	width:100%;
@@ -48,7 +48,7 @@ h1{
     font-size: 50px:
 }
 
-table{
+table.menu{
 	background-color: #2A4747;
 	border:3px solid black;
 	
