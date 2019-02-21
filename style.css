@@ -80,6 +80,9 @@ p{
 	color:black;
 	background-color:white;
 	text-align: left;
+}
 
+.info ul{
+	list-style-type: square;
 }
 
