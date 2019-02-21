@@ -86,3 +86,8 @@ p{
 	list-style-type: square;
 }
 
+.contact p{
+	vertical-align: center;
+	horizontal-align:center;
+}
+
