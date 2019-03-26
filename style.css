@@ -90,3 +90,12 @@ p{
 	vertical-align: center;
 }
 
+#app {
+	padding: 20px;
+  }
+  .comment-form {
+	width: 300px;
+  }
+  .comment-form .input-group {
+	margin: 8px 0; 
+  }
